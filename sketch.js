@@ -28,6 +28,7 @@ function draw() {
   if(xBol-diametro/2<=0){
     velocidadeX *=-1;
   }
+  
 }
 
   
